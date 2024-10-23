@@ -37,7 +37,7 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 1. **Clone the Repository**
    ```bash
    git clone "https://github.com/Umang375/Weather-app.git"
-   cd App2-Weather-app
+   cd Weather-app
    ```
 
 2. **Install Backend Dependencies**
